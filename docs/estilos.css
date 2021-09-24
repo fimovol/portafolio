@@ -1,0 +1,12 @@
+h1{
+    color: rgb(137, 146, 146);
+    size: 20px;
+    border-radius: 20px;
+}
+.hola{
+    width: 30px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 12px;
+    
+}
